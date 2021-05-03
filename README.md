@@ -1,8 +1,8 @@
-<!doctype html>
+
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>web desktop</title>
+		web desktop
 		<link rel="apple-touch-icon" sizes="180x180" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7u_Bjf4KVY8iccr4QxIaHKrDzDMjEG1VEw&usqp=CAU">
 		<link rel="icon" type="image/png" sizes="32x32" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7u_Bjf4KVY8iccr4QxIaHKrDzDMjEG1VEw&usqp=CAU">
 		<link rel="icon" type="image/png" sizes="16x16" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7u_Bjf4KVY8iccr4QxIaHKrDzDMjEG1VEw&usqp=CAU">
