@@ -12,4 +12,7 @@
 	<meta name="description" content="Web-desk contain web version of most popular application of desktop that you use for freelance  or education purposes 
 		" />
 </head>
+<body>
+<img src="images.jpg" height="0px" width="0px">
+</body>
 </html>
